@@ -1,2 +1,2 @@
 # webhaskell
-Testing using Yesod framework with git
+Test using Yesod framework with git
